@@ -45,13 +45,12 @@ ul {
     width: 100%;
     position: absolute;
     top: 50%;
-    
-
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-50%);
 }
 
  h2 {
     margin-bottom: 0;
 }
- h4 {
-   /* padding: 0; */
- }
+ 
