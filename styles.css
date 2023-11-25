@@ -53,4 +53,15 @@ ul {
  h2 {
     margin-bottom: 0;
 }
- 
+
+.tea-of-month {
+    width: 1000px;
+}
+
+ .tea-container {
+    display: inline-flex;
+ }
+.tea {
+    height: 200px;
+    width: 300px;
+}
