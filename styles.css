@@ -12,10 +12,12 @@ header {
     border-bottom: 1px solid seashell;
     position: fixed;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 ul {
     display: flex;
     justify-content: space-evenly;
+    list-style: none;
 }
+
