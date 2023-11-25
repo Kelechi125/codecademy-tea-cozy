@@ -10,14 +10,22 @@ body {
 header {
     height: 69px;
     border-bottom: 1px solid seashell;
-    position: fixed;
+    position: sticky;
     display: flex;
     justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 ul {
     display: flex;
     justify-content: space-evenly;
     list-style: none;
+    text-decoration: underline;
+    gap: 15px;
 }
 
+#logo {
+    height: 50px;
+    width: auto;
+}
