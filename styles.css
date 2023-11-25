@@ -6,3 +6,16 @@ body {
     opacity: 0.9;
     text-align: center;
 }
+
+header {
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
