@@ -29,3 +29,18 @@ ul {
     height: 50px;
     width: auto;
 }
+
+.mission-hero {
+    background-image: url(images/img-mission-background.jpg);
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+}
+
+.mission-statement {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
