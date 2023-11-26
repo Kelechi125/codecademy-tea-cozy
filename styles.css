@@ -56,12 +56,20 @@ ul {
 
 .tea-of-month {
     width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
 }
 
  .tea-container {
-    display: inline-flex;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
  }
-.tea {
+
+.tea-pic {
     height: 200px;
     width: 300px;
-}
+} 
