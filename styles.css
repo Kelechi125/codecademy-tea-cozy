@@ -107,4 +107,14 @@ h4 {
     flex-direction: column;
     align-content: space-evenly;
     margin-top: 15px;
+    opacity: 1;
+}
+
+.contact-info {
+    height: 200px;
+}
+
+.copyright {
+    text-align: left;
+    margin-left: 20px;
 }
