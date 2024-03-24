@@ -1,1 +1,1 @@
-# codecademy-tea-cozy
+This is a project from CodeCademy's Learn Intermediate CSS course that required me to reproduce the website for a fictional tea shop. In this project, I continued to demonstrate my skills in HTML, but the most important skills that I demonstrated was positioning different elements of a website using CSS Flexbox, which included Flexbox properties such as flex-grow, flex-shrink, flex-direction, and justify-content.
